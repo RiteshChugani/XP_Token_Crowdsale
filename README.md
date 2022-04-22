@@ -1,2 +1,0 @@
-# XP_Token_Crowdsale
-XP_Token_Crowdsale
